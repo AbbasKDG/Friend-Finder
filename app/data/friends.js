@@ -23,3 +23,5 @@ friends= [
     ]
 }
 ]
+
+module.exports = friends;
